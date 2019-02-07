@@ -1,0 +1,12 @@
+/* Style Sheet */
+body {
+  font-family: "Courier New";
+  width: 800px;
+  margin: 0 auto;
+}
+
+div {
+  border: 1px solid grey;
+  padding: 10px;
+  margin-bottom: 10px;
+}
